@@ -1,4 +1,4 @@
-# Rhizome
+# 10^4 maxima
 
 > "The tree imposes the verb 'to be,' but the fabric of the rhizome is the conjunction, 'and... and... and...'"
 > — Deleuze & Guattari, *A Thousand Plateaus*
